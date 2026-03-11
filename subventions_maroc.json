@@ -1,0 +1,39 @@
+[
+  {
+    "id": "ANPME-01",
+    "nom": "Appui à la création d’entreprises innovantes",
+    "organisme": "ANPME",
+    "description": "Subvention pour start-ups tech de moins de 3 ans, basées à Casablanca ou Rabat, dans les domaines IA, fintech ou green tech.",
+    "montant_max": 300000,
+    "conditions": {
+      "secteurs": ["Tech", "Fintech", "Énergie verte"],
+      "tailles": ["Start-up"],
+      "regions": ["Casablanca-Settat", "Rabat-Salé-Kénitra"],
+      "age_max_entreprise": 3
+    }
+  },
+  {
+    "id": "FH2-AGRI",
+    "nom": "Fonds Hassan II – Appui agricole",
+    "organisme": "Fonds Hassan II",
+    "description": "Subvention pour coopératives agricoles dans les zones rurales pour l’achat de matériel.",
+    "montant_max": 500000,
+    "conditions": {
+      "secteurs": ["Agriculture"],
+      "statuts": ["Coopérative"],
+      "regions": ["Souss-Massa", "Drâa-Tafilalet", "Oriental"]
+    }
+  },
+  {
+    "id": "INDUS-2025",
+    "nom": "Industrie du Futur",
+    "organisme": "Ministère de l’Industrie",
+    "description": "Subvention pour PME industrielles investissant dans l’automatisation et l’IA.",
+    "montant_max": 1000000,
+    "conditions": {
+      "secteurs": ["Industrie"],
+      "tailles": ["PME"],
+      "besoins": ["Automatisation", "IA", "Robotique"]
+    }
+  }
+]

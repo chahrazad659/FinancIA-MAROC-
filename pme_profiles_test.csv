@@ -1,0 +1,501 @@
+statut_juridique,secteur_activite,taille,region,besoin_principal,annee_creation
+Coopérative,Artisanat,TPE,Souss-Massa,Innovation,2024
+Coopérative,Tech,Start-up,Souss-Massa,Export,2024
+Coopérative,Tourisme,PME,Drâa-Tafilalet,Numérisation,2023
+Auto-entrepreneur,Agriculture,PME,Fès-Meknès,Formation,2020
+Auto-entrepreneur,Industrie,Start-up,Rabat-Salé-Kénitra,Formation,2023
+Coopérative,Industrie,Start-up,Drâa-Tafilalet,Achat d'équipements,2022
+Auto-entrepreneur,Industrie,Start-up,Fès-Meknès,Achat d'équipements,2021
+Auto-entrepreneur,Artisanat,PME,Rabat-Salé-Kénitra,Numérisation,2020
+SARL,Tourisme,PME,Drâa-Tafilalet,Formation,2023
+Coopérative,Artisanat,TPE,Souss-Massa,Achat d'équipements,2023
+SARL,Artisanat,PME,Rabat-Salé-Kénitra,Formation,2024
+Coopérative,Tech,PME,Drâa-Tafilalet,Numérisation,2021
+SARL,Artisanat,PME,Drâa-Tafilalet,Achat d'équipements,2024
+Auto-entrepreneur,Tech,Start-up,Fès-Meknès,Numérisation,2020
+Auto-entrepreneur,Agriculture,TPE,Fès-Meknès,Achat d'équipements,2020
+Coopérative,Agriculture,TPE,Drâa-Tafilalet,Export,2022
+Auto-entrepreneur,Industrie,Start-up,Casablanca-Settat,Export,2024
+SARL,Tech,TPE,Drâa-Tafilalet,Achat d'équipements,2023
+SARL,Agriculture,Start-up,Fès-Meknès,Export,2023
+SARL,Industrie,Start-up,Casablanca-Settat,Export,2024
+Coopérative,Industrie,TPE,Fès-Meknès,Numérisation,2022
+Auto-entrepreneur,Tech,PME,Drâa-Tafilalet,Innovation,2022
+Coopérative,Agriculture,TPE,Drâa-Tafilalet,Innovation,2024
+Coopérative,Industrie,TPE,Drâa-Tafilalet,Innovation,2022
+Coopérative,Artisanat,PME,Rabat-Salé-Kénitra,Innovation,2020
+Auto-entrepreneur,Artisanat,PME,Souss-Massa,Numérisation,2023
+Auto-entrepreneur,Agriculture,TPE,Casablanca-Settat,Export,2020
+Auto-entrepreneur,Agriculture,Start-up,Souss-Massa,Achat d'équipements,2024
+Auto-entrepreneur,Industrie,PME,Drâa-Tafilalet,Export,2020
+Auto-entrepreneur,Agriculture,PME,Drâa-Tafilalet,Formation,2021
+Coopérative,Agriculture,TPE,Casablanca-Settat,Achat d'équipements,2022
+Auto-entrepreneur,Tech,PME,Drâa-Tafilalet,Innovation,2020
+Auto-entrepreneur,Industrie,PME,Rabat-Salé-Kénitra,Innovation,2023
+SARL,Artisanat,Start-up,Souss-Massa,Export,2020
+Coopérative,Tourisme,PME,Souss-Massa,Achat d'équipements,2020
+Coopérative,Tourisme,Start-up,Drâa-Tafilalet,Formation,2022
+Coopérative,Tech,Start-up,Souss-Massa,Formation,2023
+Auto-entrepreneur,Agriculture,Start-up,Rabat-Salé-Kénitra,Achat d'équipements,2022
+Auto-entrepreneur,Agriculture,PME,Rabat-Salé-Kénitra,Export,2023
+SARL,Agriculture,TPE,Rabat-Salé-Kénitra,Achat d'équipements,2023
+Auto-entrepreneur,Tourisme,Start-up,Casablanca-Settat,Achat d'équipements,2022
+Coopérative,Industrie,PME,Casablanca-Settat,Formation,2022
+Auto-entrepreneur,Artisanat,PME,Drâa-Tafilalet,Export,2020
+Coopérative,Agriculture,TPE,Rabat-Salé-Kénitra,Numérisation,2021
+SARL,Industrie,TPE,Casablanca-Settat,Formation,2020
+Auto-entrepreneur,Tourisme,Start-up,Souss-Massa,Achat d'équipements,2020
+Coopérative,Industrie,PME,Fès-Meknès,Export,2022
+Coopérative,Tech,TPE,Casablanca-Settat,Formation,2020
+Auto-entrepreneur,Artisanat,TPE,Souss-Massa,Formation,2022
+Auto-entrepreneur,Agriculture,PME,Fès-Meknès,Innovation,2022
+Auto-entrepreneur,Tourisme,TPE,Casablanca-Settat,Innovation,2022
+Auto-entrepreneur,Artisanat,Start-up,Fès-Meknès,Innovation,2020
+Coopérative,Tech,TPE,Rabat-Salé-Kénitra,Numérisation,2022
+SARL,Tech,Start-up,Rabat-Salé-Kénitra,Export,2021
+SARL,Tech,TPE,Casablanca-Settat,Achat d'équipements,2022
+SARL,Tourisme,PME,Rabat-Salé-Kénitra,Export,2021
+Auto-entrepreneur,Tourisme,PME,Casablanca-Settat,Formation,2024
+Auto-entrepreneur,Artisanat,Start-up,Drâa-Tafilalet,Numérisation,2021
+Coopérative,Industrie,TPE,Rabat-Salé-Kénitra,Innovation,2021
+SARL,Agriculture,PME,Souss-Massa,Formation,2024
+Auto-entrepreneur,Tourisme,TPE,Drâa-Tafilalet,Innovation,2023
+SARL,Industrie,Start-up,Drâa-Tafilalet,Innovation,2021
+SARL,Industrie,TPE,Souss-Massa,Formation,2021
+Coopérative,Tech,TPE,Rabat-Salé-Kénitra,Innovation,2020
+Auto-entrepreneur,Agriculture,PME,Rabat-Salé-Kénitra,Achat d'équipements,2021
+SARL,Agriculture,TPE,Fès-Meknès,Achat d'équipements,2024
+Coopérative,Tourisme,PME,Fès-Meknès,Export,2023
+SARL,Industrie,TPE,Casablanca-Settat,Innovation,2023
+Auto-entrepreneur,Agriculture,PME,Drâa-Tafilalet,Innovation,2023
+SARL,Tech,TPE,Drâa-Tafilalet,Achat d'équipements,2024
+Coopérative,Tech,PME,Fès-Meknès,Formation,2021
+Coopérative,Tech,PME,Souss-Massa,Numérisation,2020
+Auto-entrepreneur,Tourisme,Start-up,Rabat-Salé-Kénitra,Achat d'équipements,2023
+Coopérative,Artisanat,PME,Souss-Massa,Formation,2020
+Auto-entrepreneur,Tourisme,Start-up,Souss-Massa,Innovation,2023
+Coopérative,Agriculture,TPE,Rabat-Salé-Kénitra,Export,2023
+Auto-entrepreneur,Tourisme,Start-up,Rabat-Salé-Kénitra,Innovation,2022
+SARL,Industrie,Start-up,Casablanca-Settat,Numérisation,2024
+SARL,Tech,PME,Rabat-Salé-Kénitra,Export,2020
+Coopérative,Artisanat,PME,Fès-Meknès,Numérisation,2024
+Coopérative,Tourisme,TPE,Fès-Meknès,Innovation,2020
+SARL,Tourisme,TPE,Souss-Massa,Achat d'équipements,2022
+SARL,Agriculture,Start-up,Fès-Meknès,Formation,2020
+Coopérative,Tourisme,Start-up,Casablanca-Settat,Export,2020
+SARL,Agriculture,TPE,Drâa-Tafilalet,Achat d'équipements,2024
+Coopérative,Industrie,TPE,Drâa-Tafilalet,Formation,2024
+Auto-entrepreneur,Industrie,TPE,Drâa-Tafilalet,Formation,2022
+SARL,Tourisme,TPE,Souss-Massa,Formation,2020
+Coopérative,Tourisme,TPE,Casablanca-Settat,Innovation,2024
+SARL,Tech,Start-up,Rabat-Salé-Kénitra,Innovation,2022
+Coopérative,Tourisme,Start-up,Souss-Massa,Numérisation,2023
+Auto-entrepreneur,Tech,PME,Drâa-Tafilalet,Achat d'équipements,2024
+SARL,Tourisme,PME,Casablanca-Settat,Numérisation,2022
+SARL,Tech,TPE,Fès-Meknès,Innovation,2022
+Auto-entrepreneur,Agriculture,PME,Drâa-Tafilalet,Achat d'équipements,2020
+Auto-entrepreneur,Artisanat,PME,Drâa-Tafilalet,Export,2024
+SARL,Industrie,PME,Rabat-Salé-Kénitra,Export,2022
+Auto-entrepreneur,Tourisme,PME,Drâa-Tafilalet,Numérisation,2023
+Auto-entrepreneur,Agriculture,Start-up,Casablanca-Settat,Export,2024
+SARL,Agriculture,Start-up,Drâa-Tafilalet,Achat d'équipements,2020
+Auto-entrepreneur,Tourisme,PME,Rabat-Salé-Kénitra,Formation,2024
+Auto-entrepreneur,Tourisme,Start-up,Fès-Meknès,Innovation,2022
+Auto-entrepreneur,Artisanat,Start-up,Souss-Massa,Formation,2020
+SARL,Agriculture,TPE,Casablanca-Settat,Innovation,2022
+Coopérative,Agriculture,Start-up,Drâa-Tafilalet,Numérisation,2023
+Auto-entrepreneur,Tech,PME,Rabat-Salé-Kénitra,Formation,2021
+Auto-entrepreneur,Agriculture,Start-up,Casablanca-Settat,Achat d'équipements,2020
+Auto-entrepreneur,Artisanat,TPE,Drâa-Tafilalet,Innovation,2024
+SARL,Industrie,TPE,Rabat-Salé-Kénitra,Export,2024
+Coopérative,Agriculture,PME,Rabat-Salé-Kénitra,Numérisation,2022
+Auto-entrepreneur,Tourisme,Start-up,Casablanca-Settat,Achat d'équipements,2021
+Coopérative,Agriculture,Start-up,Fès-Meknès,Numérisation,2020
+SARL,Industrie,Start-up,Casablanca-Settat,Innovation,2020
+SARL,Agriculture,Start-up,Casablanca-Settat,Innovation,2023
+Auto-entrepreneur,Tourisme,Start-up,Fès-Meknès,Export,2024
+Coopérative,Tourisme,TPE,Fès-Meknès,Numérisation,2021
+Coopérative,Agriculture,TPE,Casablanca-Settat,Achat d'équipements,2022
+Auto-entrepreneur,Tourisme,PME,Casablanca-Settat,Achat d'équipements,2021
+Coopérative,Tech,PME,Rabat-Salé-Kénitra,Export,2022
+SARL,Artisanat,TPE,Drâa-Tafilalet,Innovation,2022
+Auto-entrepreneur,Agriculture,Start-up,Fès-Meknès,Innovation,2021
+Coopérative,Industrie,Start-up,Drâa-Tafilalet,Numérisation,2021
+SARL,Tech,PME,Souss-Massa,Export,2021
+Auto-entrepreneur,Agriculture,Start-up,Drâa-Tafilalet,Numérisation,2022
+Auto-entrepreneur,Tourisme,TPE,Drâa-Tafilalet,Numérisation,2020
+SARL,Agriculture,TPE,Rabat-Salé-Kénitra,Innovation,2021
+Auto-entrepreneur,Industrie,Start-up,Souss-Massa,Export,2020
+Coopérative,Industrie,PME,Drâa-Tafilalet,Formation,2020
+Coopérative,Industrie,Start-up,Fès-Meknès,Numérisation,2024
+SARL,Industrie,Start-up,Fès-Meknès,Innovation,2021
+SARL,Tourisme,PME,Fès-Meknès,Achat d'équipements,2024
+Auto-entrepreneur,Artisanat,PME,Rabat-Salé-Kénitra,Achat d'équipements,2021
+Auto-entrepreneur,Industrie,TPE,Rabat-Salé-Kénitra,Achat d'équipements,2020
+SARL,Industrie,Start-up,Fès-Meknès,Achat d'équipements,2021
+Auto-entrepreneur,Agriculture,Start-up,Fès-Meknès,Formation,2021
+Coopérative,Tech,TPE,Rabat-Salé-Kénitra,Export,2022
+Coopérative,Industrie,Start-up,Souss-Massa,Formation,2024
+SARL,Tech,PME,Souss-Massa,Export,2020
+Coopérative,Tourisme,PME,Casablanca-Settat,Achat d'équipements,2021
+SARL,Artisanat,TPE,Casablanca-Settat,Innovation,2023
+Auto-entrepreneur,Artisanat,PME,Souss-Massa,Achat d'équipements,2024
+SARL,Artisanat,Start-up,Rabat-Salé-Kénitra,Achat d'équipements,2023
+Coopérative,Tech,TPE,Fès-Meknès,Formation,2021
+SARL,Industrie,Start-up,Fès-Meknès,Innovation,2020
+Auto-entrepreneur,Tourisme,PME,Fès-Meknès,Formation,2022
+SARL,Agriculture,Start-up,Souss-Massa,Export,2024
+Coopérative,Tech,Start-up,Drâa-Tafilalet,Achat d'équipements,2022
+SARL,Agriculture,PME,Souss-Massa,Numérisation,2022
+Auto-entrepreneur,Artisanat,TPE,Rabat-Salé-Kénitra,Formation,2022
+Auto-entrepreneur,Artisanat,TPE,Drâa-Tafilalet,Achat d'équipements,2021
+SARL,Tourisme,PME,Souss-Massa,Formation,2024
+Coopérative,Industrie,TPE,Rabat-Salé-Kénitra,Numérisation,2024
+Coopérative,Tech,PME,Fès-Meknès,Numérisation,2023
+Auto-entrepreneur,Tourisme,TPE,Casablanca-Settat,Achat d'équipements,2022
+Coopérative,Industrie,PME,Casablanca-Settat,Innovation,2023
+SARL,Tourisme,Start-up,Casablanca-Settat,Numérisation,2023
+Coopérative,Industrie,TPE,Drâa-Tafilalet,Innovation,2022
+Auto-entrepreneur,Tourisme,PME,Drâa-Tafilalet,Export,2024
+Auto-entrepreneur,Tourisme,Start-up,Souss-Massa,Numérisation,2023
+Auto-entrepreneur,Tourisme,PME,Casablanca-Settat,Numérisation,2022
+Auto-entrepreneur,Agriculture,Start-up,Casablanca-Settat,Achat d'équipements,2020
+Auto-entrepreneur,Tech,PME,Fès-Meknès,Export,2022
+SARL,Industrie,Start-up,Souss-Massa,Numérisation,2023
+Coopérative,Tourisme,TPE,Drâa-Tafilalet,Export,2023
+Auto-entrepreneur,Agriculture,TPE,Fès-Meknès,Innovation,2022
+Coopérative,Agriculture,PME,Drâa-Tafilalet,Numérisation,2021
+Auto-entrepreneur,Industrie,PME,Casablanca-Settat,Innovation,2023
+Auto-entrepreneur,Artisanat,Start-up,Fès-Meknès,Innovation,2024
+Coopérative,Artisanat,TPE,Rabat-Salé-Kénitra,Export,2022
+Coopérative,Artisanat,PME,Souss-Massa,Export,2024
+Coopérative,Tech,PME,Rabat-Salé-Kénitra,Export,2023
+SARL,Tourisme,PME,Rabat-Salé-Kénitra,Achat d'équipements,2020
+Coopérative,Artisanat,Start-up,Drâa-Tafilalet,Formation,2023
+Auto-entrepreneur,Tourisme,Start-up,Rabat-Salé-Kénitra,Achat d'équipements,2023
+Coopérative,Tech,TPE,Souss-Massa,Innovation,2020
+SARL,Industrie,Start-up,Casablanca-Settat,Innovation,2024
+SARL,Artisanat,PME,Casablanca-Settat,Achat d'équipements,2022
+Coopérative,Tourisme,Start-up,Casablanca-Settat,Innovation,2020
+SARL,Artisanat,TPE,Fès-Meknès,Numérisation,2020
+Coopérative,Artisanat,TPE,Rabat-Salé-Kénitra,Export,2021
+Coopérative,Tech,Start-up,Rabat-Salé-Kénitra,Export,2020
+Coopérative,Industrie,Start-up,Souss-Massa,Achat d'équipements,2023
+SARL,Tourisme,TPE,Casablanca-Settat,Innovation,2022
+SARL,Tech,PME,Fès-Meknès,Achat d'équipements,2020
+Auto-entrepreneur,Agriculture,PME,Drâa-Tafilalet,Innovation,2020
+Coopérative,Agriculture,TPE,Souss-Massa,Export,2022
+SARL,Tourisme,TPE,Fès-Meknès,Innovation,2022
+SARL,Agriculture,PME,Souss-Massa,Numérisation,2021
+SARL,Artisanat,TPE,Rabat-Salé-Kénitra,Export,2023
+Auto-entrepreneur,Tourisme,Start-up,Souss-Massa,Numérisation,2021
+Coopérative,Tech,TPE,Drâa-Tafilalet,Numérisation,2024
+Auto-entrepreneur,Agriculture,Start-up,Souss-Massa,Export,2024
+SARL,Agriculture,Start-up,Fès-Meknès,Export,2022
+Auto-entrepreneur,Artisanat,Start-up,Rabat-Salé-Kénitra,Export,2022
+Auto-entrepreneur,Tourisme,PME,Rabat-Salé-Kénitra,Numérisation,2020
+Coopérative,Tourisme,Start-up,Fès-Meknès,Export,2023
+Auto-entrepreneur,Artisanat,PME,Rabat-Salé-Kénitra,Achat d'équipements,2024
+Coopérative,Tech,Start-up,Rabat-Salé-Kénitra,Export,2023
+Auto-entrepreneur,Tourisme,PME,Casablanca-Settat,Numérisation,2024
+Coopérative,Artisanat,PME,Drâa-Tafilalet,Achat d'équipements,2021
+SARL,Industrie,PME,Casablanca-Settat,Numérisation,2022
+Auto-entrepreneur,Agriculture,PME,Fès-Meknès,Achat d'équipements,2020
+SARL,Industrie,PME,Drâa-Tafilalet,Numérisation,2021
+Auto-entrepreneur,Tourisme,PME,Fès-Meknès,Export,2021
+Auto-entrepreneur,Tech,TPE,Rabat-Salé-Kénitra,Achat d'équipements,2024
+Auto-entrepreneur,Tech,Start-up,Fès-Meknès,Numérisation,2024
+Coopérative,Agriculture,Start-up,Souss-Massa,Numérisation,2023
+Auto-entrepreneur,Agriculture,TPE,Rabat-Salé-Kénitra,Innovation,2020
+SARL,Tourisme,PME,Rabat-Salé-Kénitra,Numérisation,2023
+SARL,Industrie,TPE,Souss-Massa,Innovation,2023
+Coopérative,Tech,TPE,Fès-Meknès,Export,2022
+Auto-entrepreneur,Industrie,Start-up,Souss-Massa,Numérisation,2024
+Auto-entrepreneur,Tech,Start-up,Drâa-Tafilalet,Export,2022
+Coopérative,Agriculture,PME,Souss-Massa,Innovation,2022
+SARL,Agriculture,PME,Rabat-Salé-Kénitra,Innovation,2020
+Auto-entrepreneur,Agriculture,TPE,Casablanca-Settat,Innovation,2022
+SARL,Agriculture,Start-up,Souss-Massa,Export,2021
+Auto-entrepreneur,Artisanat,Start-up,Rabat-Salé-Kénitra,Formation,2022
+Auto-entrepreneur,Artisanat,Start-up,Souss-Massa,Achat d'équipements,2024
+Auto-entrepreneur,Tech,TPE,Casablanca-Settat,Formation,2022
+Coopérative,Tourisme,TPE,Fès-Meknès,Achat d'équipements,2021
+Auto-entrepreneur,Artisanat,Start-up,Souss-Massa,Numérisation,2020
+Auto-entrepreneur,Tech,Start-up,Rabat-Salé-Kénitra,Achat d'équipements,2021
+Auto-entrepreneur,Tech,Start-up,Fès-Meknès,Achat d'équipements,2022
+SARL,Industrie,Start-up,Fès-Meknès,Numérisation,2023
+Coopérative,Industrie,PME,Souss-Massa,Numérisation,2020
+SARL,Industrie,TPE,Rabat-Salé-Kénitra,Export,2024
+Coopérative,Tech,Start-up,Drâa-Tafilalet,Achat d'équipements,2023
+Auto-entrepreneur,Agriculture,TPE,Rabat-Salé-Kénitra,Achat d'équipements,2024
+SARL,Artisanat,PME,Rabat-Salé-Kénitra,Export,2021
+SARL,Industrie,Start-up,Fès-Meknès,Innovation,2021
+Coopérative,Industrie,Start-up,Drâa-Tafilalet,Innovation,2020
+Auto-entrepreneur,Tourisme,TPE,Drâa-Tafilalet,Achat d'équipements,2021
+SARL,Agriculture,Start-up,Drâa-Tafilalet,Innovation,2020
+SARL,Agriculture,Start-up,Fès-Meknès,Numérisation,2023
+SARL,Tourisme,TPE,Casablanca-Settat,Innovation,2020
+Coopérative,Agriculture,TPE,Drâa-Tafilalet,Formation,2022
+SARL,Tourisme,TPE,Fès-Meknès,Export,2023
+SARL,Industrie,PME,Fès-Meknès,Numérisation,2020
+Coopérative,Artisanat,Start-up,Drâa-Tafilalet,Innovation,2024
+Coopérative,Tourisme,PME,Rabat-Salé-Kénitra,Export,2021
+Auto-entrepreneur,Tech,TPE,Casablanca-Settat,Numérisation,2022
+SARL,Tourisme,TPE,Casablanca-Settat,Achat d'équipements,2022
+SARL,Agriculture,TPE,Souss-Massa,Numérisation,2022
+SARL,Tech,PME,Casablanca-Settat,Export,2022
+SARL,Tourisme,TPE,Casablanca-Settat,Achat d'équipements,2023
+SARL,Tourisme,PME,Souss-Massa,Achat d'équipements,2022
+Coopérative,Artisanat,TPE,Casablanca-Settat,Export,2020
+SARL,Artisanat,PME,Casablanca-Settat,Achat d'équipements,2024
+Coopérative,Industrie,PME,Drâa-Tafilalet,Export,2024
+SARL,Tech,PME,Fès-Meknès,Formation,2024
+Auto-entrepreneur,Tourisme,TPE,Rabat-Salé-Kénitra,Innovation,2024
+Coopérative,Tech,Start-up,Rabat-Salé-Kénitra,Export,2024
+Auto-entrepreneur,Agriculture,PME,Souss-Massa,Formation,2020
+Coopérative,Industrie,TPE,Fès-Meknès,Export,2024
+Auto-entrepreneur,Tourisme,PME,Drâa-Tafilalet,Export,2023
+Coopérative,Tourisme,Start-up,Fès-Meknès,Numérisation,2020
+Coopérative,Tech,PME,Souss-Massa,Innovation,2021
+SARL,Tourisme,TPE,Drâa-Tafilalet,Numérisation,2024
+SARL,Industrie,TPE,Casablanca-Settat,Achat d'équipements,2021
+Auto-entrepreneur,Industrie,PME,Souss-Massa,Numérisation,2020
+SARL,Artisanat,Start-up,Fès-Meknès,Innovation,2023
+SARL,Artisanat,Start-up,Casablanca-Settat,Formation,2020
+SARL,Agriculture,PME,Rabat-Salé-Kénitra,Export,2021
+SARL,Tourisme,Start-up,Souss-Massa,Formation,2024
+Coopérative,Tourisme,Start-up,Casablanca-Settat,Export,2022
+SARL,Tech,PME,Rabat-Salé-Kénitra,Innovation,2023
+Auto-entrepreneur,Industrie,TPE,Casablanca-Settat,Innovation,2024
+Coopérative,Artisanat,PME,Drâa-Tafilalet,Export,2022
+Coopérative,Agriculture,PME,Drâa-Tafilalet,Formation,2024
+Auto-entrepreneur,Tourisme,Start-up,Drâa-Tafilalet,Export,2020
+Auto-entrepreneur,Industrie,Start-up,Casablanca-Settat,Numérisation,2023
+SARL,Tech,TPE,Souss-Massa,Achat d'équipements,2020
+SARL,Artisanat,Start-up,Drâa-Tafilalet,Achat d'équipements,2020
+Auto-entrepreneur,Tourisme,Start-up,Souss-Massa,Numérisation,2023
+Coopérative,Industrie,TPE,Drâa-Tafilalet,Innovation,2023
+SARL,Industrie,PME,Casablanca-Settat,Achat d'équipements,2023
+Auto-entrepreneur,Agriculture,Start-up,Fès-Meknès,Innovation,2021
+Coopérative,Tourisme,TPE,Fès-Meknès,Numérisation,2021
+SARL,Industrie,TPE,Casablanca-Settat,Achat d'équipements,2023
+SARL,Agriculture,Start-up,Souss-Massa,Achat d'équipements,2020
+Auto-entrepreneur,Artisanat,TPE,Rabat-Salé-Kénitra,Numérisation,2023
+Auto-entrepreneur,Tech,TPE,Casablanca-Settat,Achat d'équipements,2024
+SARL,Agriculture,TPE,Drâa-Tafilalet,Numérisation,2021
+SARL,Tech,PME,Rabat-Salé-Kénitra,Numérisation,2021
+SARL,Artisanat,TPE,Souss-Massa,Innovation,2022
+Coopérative,Agriculture,PME,Casablanca-Settat,Achat d'équipements,2021
+SARL,Artisanat,PME,Drâa-Tafilalet,Export,2022
+SARL,Tech,PME,Rabat-Salé-Kénitra,Export,2020
+SARL,Industrie,PME,Drâa-Tafilalet,Formation,2024
+Auto-entrepreneur,Tourisme,Start-up,Rabat-Salé-Kénitra,Export,2023
+Auto-entrepreneur,Tourisme,Start-up,Fès-Meknès,Export,2023
+SARL,Tech,Start-up,Fès-Meknès,Achat d'équipements,2022
+Coopérative,Artisanat,PME,Souss-Massa,Export,2024
+Auto-entrepreneur,Agriculture,Start-up,Drâa-Tafilalet,Achat d'équipements,2024
+Coopérative,Tech,TPE,Drâa-Tafilalet,Innovation,2023
+SARL,Artisanat,PME,Casablanca-Settat,Export,2020
+SARL,Tourisme,PME,Drâa-Tafilalet,Numérisation,2021
+SARL,Tech,Start-up,Souss-Massa,Numérisation,2024
+Coopérative,Tourisme,PME,Fès-Meknès,Achat d'équipements,2022
+SARL,Artisanat,PME,Rabat-Salé-Kénitra,Formation,2021
+Coopérative,Tourisme,TPE,Fès-Meknès,Achat d'équipements,2023
+Auto-entrepreneur,Agriculture,PME,Casablanca-Settat,Export,2020
+Auto-entrepreneur,Artisanat,PME,Souss-Massa,Innovation,2024
+Coopérative,Agriculture,TPE,Souss-Massa,Numérisation,2022
+SARL,Tech,TPE,Rabat-Salé-Kénitra,Formation,2020
+Auto-entrepreneur,Tourisme,Start-up,Drâa-Tafilalet,Achat d'équipements,2020
+SARL,Artisanat,TPE,Souss-Massa,Innovation,2024
+Auto-entrepreneur,Agriculture,TPE,Drâa-Tafilalet,Formation,2023
+Coopérative,Tourisme,PME,Rabat-Salé-Kénitra,Achat d'équipements,2024
+SARL,Tourisme,TPE,Souss-Massa,Innovation,2024
+Coopérative,Tourisme,TPE,Casablanca-Settat,Export,2023
+SARL,Artisanat,TPE,Rabat-Salé-Kénitra,Export,2022
+SARL,Tech,TPE,Rabat-Salé-Kénitra,Innovation,2020
+Coopérative,Industrie,PME,Drâa-Tafilalet,Formation,2024
+SARL,Tech,Start-up,Rabat-Salé-Kénitra,Innovation,2020
+Coopérative,Tourisme,PME,Fès-Meknès,Numérisation,2020
+Coopérative,Tech,Start-up,Rabat-Salé-Kénitra,Numérisation,2021
+Auto-entrepreneur,Tech,Start-up,Casablanca-Settat,Formation,2022
+Auto-entrepreneur,Artisanat,TPE,Casablanca-Settat,Export,2024
+Auto-entrepreneur,Agriculture,PME,Drâa-Tafilalet,Numérisation,2021
+SARL,Agriculture,TPE,Casablanca-Settat,Achat d'équipements,2024
+Auto-entrepreneur,Tourisme,TPE,Casablanca-Settat,Export,2023
+SARL,Tourisme,PME,Drâa-Tafilalet,Export,2021
+SARL,Tourisme,TPE,Souss-Massa,Innovation,2022
+Auto-entrepreneur,Agriculture,TPE,Casablanca-Settat,Formation,2021
+Coopérative,Tourisme,Start-up,Drâa-Tafilalet,Innovation,2020
+Auto-entrepreneur,Agriculture,TPE,Souss-Massa,Formation,2021
+Coopérative,Industrie,PME,Rabat-Salé-Kénitra,Numérisation,2020
+Coopérative,Tourisme,PME,Rabat-Salé-Kénitra,Formation,2024
+Auto-entrepreneur,Tech,TPE,Drâa-Tafilalet,Innovation,2021
+Auto-entrepreneur,Artisanat,Start-up,Souss-Massa,Numérisation,2023
+Coopérative,Industrie,TPE,Fès-Meknès,Export,2024
+Coopérative,Agriculture,Start-up,Souss-Massa,Formation,2024
+Auto-entrepreneur,Industrie,PME,Fès-Meknès,Formation,2024
+SARL,Industrie,TPE,Drâa-Tafilalet,Export,2021
+SARL,Tech,PME,Casablanca-Settat,Innovation,2023
+SARL,Agriculture,PME,Souss-Massa,Formation,2021
+Coopérative,Tourisme,Start-up,Casablanca-Settat,Numérisation,2024
+SARL,Artisanat,PME,Casablanca-Settat,Formation,2024
+SARL,Industrie,TPE,Fès-Meknès,Formation,2020
+SARL,Agriculture,Start-up,Rabat-Salé-Kénitra,Numérisation,2020
+Auto-entrepreneur,Tech,TPE,Rabat-Salé-Kénitra,Export,2024
+SARL,Industrie,Start-up,Rabat-Salé-Kénitra,Achat d'équipements,2021
+Coopérative,Artisanat,PME,Casablanca-Settat,Numérisation,2024
+Coopérative,Agriculture,Start-up,Drâa-Tafilalet,Numérisation,2020
+Coopérative,Tourisme,TPE,Fès-Meknès,Export,2023
+Coopérative,Industrie,PME,Casablanca-Settat,Innovation,2024
+Auto-entrepreneur,Agriculture,PME,Souss-Massa,Innovation,2021
+Coopérative,Tech,PME,Fès-Meknès,Achat d'équipements,2020
+Coopérative,Artisanat,PME,Souss-Massa,Formation,2021
+SARL,Tech,Start-up,Fès-Meknès,Formation,2024
+Auto-entrepreneur,Artisanat,Start-up,Casablanca-Settat,Achat d'équipements,2022
+SARL,Agriculture,Start-up,Drâa-Tafilalet,Innovation,2020
+SARL,Artisanat,TPE,Drâa-Tafilalet,Export,2024
+SARL,Tech,Start-up,Drâa-Tafilalet,Innovation,2021
+Coopérative,Tech,Start-up,Drâa-Tafilalet,Numérisation,2020
+Coopérative,Tech,Start-up,Drâa-Tafilalet,Formation,2021
+Auto-entrepreneur,Tourisme,TPE,Casablanca-Settat,Numérisation,2020
+Coopérative,Artisanat,TPE,Drâa-Tafilalet,Formation,2022
+SARL,Tourisme,Start-up,Drâa-Tafilalet,Export,2024
+Auto-entrepreneur,Agriculture,PME,Fès-Meknès,Formation,2021
+Coopérative,Agriculture,TPE,Drâa-Tafilalet,Formation,2021
+Auto-entrepreneur,Artisanat,TPE,Rabat-Salé-Kénitra,Innovation,2021
+Auto-entrepreneur,Tourisme,PME,Souss-Massa,Achat d'équipements,2020
+Auto-entrepreneur,Industrie,Start-up,Drâa-Tafilalet,Numérisation,2023
+SARL,Industrie,PME,Souss-Massa,Formation,2024
+SARL,Artisanat,Start-up,Casablanca-Settat,Numérisation,2021
+Auto-entrepreneur,Industrie,PME,Rabat-Salé-Kénitra,Export,2023
+SARL,Agriculture,Start-up,Fès-Meknès,Export,2021
+Coopérative,Tech,Start-up,Rabat-Salé-Kénitra,Formation,2021
+SARL,Agriculture,PME,Casablanca-Settat,Innovation,2020
+Coopérative,Agriculture,PME,Fès-Meknès,Formation,2022
+Coopérative,Agriculture,PME,Casablanca-Settat,Innovation,2024
+SARL,Tourisme,PME,Drâa-Tafilalet,Achat d'équipements,2023
+Auto-entrepreneur,Artisanat,TPE,Drâa-Tafilalet,Numérisation,2024
+Coopérative,Tourisme,Start-up,Rabat-Salé-Kénitra,Formation,2022
+Coopérative,Industrie,TPE,Souss-Massa,Numérisation,2021
+Auto-entrepreneur,Tech,PME,Souss-Massa,Numérisation,2024
+Coopérative,Agriculture,Start-up,Souss-Massa,Achat d'équipements,2022
+Auto-entrepreneur,Agriculture,PME,Souss-Massa,Formation,2020
+Coopérative,Agriculture,TPE,Drâa-Tafilalet,Formation,2024
+SARL,Tech,Start-up,Fès-Meknès,Formation,2024
+Coopérative,Industrie,PME,Fès-Meknès,Innovation,2024
+SARL,Tech,PME,Souss-Massa,Innovation,2024
+SARL,Tech,Start-up,Fès-Meknès,Achat d'équipements,2024
+Auto-entrepreneur,Tech,PME,Fès-Meknès,Innovation,2024
+SARL,Tourisme,TPE,Drâa-Tafilalet,Achat d'équipements,2022
+Auto-entrepreneur,Artisanat,Start-up,Fès-Meknès,Formation,2024
+SARL,Artisanat,PME,Drâa-Tafilalet,Formation,2021
+Coopérative,Agriculture,TPE,Drâa-Tafilalet,Innovation,2021
+Auto-entrepreneur,Tech,TPE,Casablanca-Settat,Achat d'équipements,2020
+Auto-entrepreneur,Agriculture,TPE,Rabat-Salé-Kénitra,Formation,2024
+Auto-entrepreneur,Tech,PME,Rabat-Salé-Kénitra,Formation,2024
+Coopérative,Tech,Start-up,Casablanca-Settat,Achat d'équipements,2023
+Coopérative,Tourisme,Start-up,Fès-Meknès,Formation,2020
+Coopérative,Tourisme,TPE,Casablanca-Settat,Export,2020
+Auto-entrepreneur,Industrie,Start-up,Casablanca-Settat,Innovation,2023
+Auto-entrepreneur,Tech,Start-up,Drâa-Tafilalet,Export,2023
+Coopérative,Industrie,Start-up,Souss-Massa,Formation,2022
+Coopérative,Tech,TPE,Fès-Meknès,Numérisation,2023
+Auto-entrepreneur,Agriculture,TPE,Rabat-Salé-Kénitra,Numérisation,2022
+Auto-entrepreneur,Artisanat,PME,Drâa-Tafilalet,Achat d'équipements,2020
+Auto-entrepreneur,Tech,Start-up,Rabat-Salé-Kénitra,Numérisation,2024
+Coopérative,Tech,PME,Fès-Meknès,Innovation,2023
+SARL,Industrie,PME,Casablanca-Settat,Numérisation,2020
+Auto-entrepreneur,Industrie,PME,Drâa-Tafilalet,Numérisation,2020
+SARL,Artisanat,PME,Drâa-Tafilalet,Innovation,2023
+Coopérative,Agriculture,TPE,Souss-Massa,Numérisation,2020
+Auto-entrepreneur,Tech,TPE,Fès-Meknès,Innovation,2023
+Coopérative,Industrie,TPE,Drâa-Tafilalet,Innovation,2024
+SARL,Tech,TPE,Fès-Meknès,Formation,2022
+SARL,Industrie,Start-up,Drâa-Tafilalet,Innovation,2022
+Auto-entrepreneur,Tourisme,TPE,Souss-Massa,Export,2024
+SARL,Artisanat,Start-up,Casablanca-Settat,Innovation,2021
+SARL,Agriculture,TPE,Souss-Massa,Achat d'équipements,2023
+Coopérative,Tech,PME,Souss-Massa,Achat d'équipements,2021
+Auto-entrepreneur,Industrie,Start-up,Rabat-Salé-Kénitra,Achat d'équipements,2024
+Auto-entrepreneur,Artisanat,PME,Rabat-Salé-Kénitra,Numérisation,2021
+SARL,Artisanat,TPE,Casablanca-Settat,Numérisation,2024
+Auto-entrepreneur,Artisanat,Start-up,Souss-Massa,Export,2024
+SARL,Artisanat,Start-up,Fès-Meknès,Formation,2023
+SARL,Industrie,PME,Fès-Meknès,Innovation,2024
+SARL,Artisanat,TPE,Fès-Meknès,Formation,2020
+Coopérative,Artisanat,TPE,Souss-Massa,Innovation,2021
+Coopérative,Artisanat,PME,Rabat-Salé-Kénitra,Numérisation,2022
+Coopérative,Artisanat,Start-up,Casablanca-Settat,Export,2024
+SARL,Tech,PME,Fès-Meknès,Formation,2022
+Auto-entrepreneur,Artisanat,PME,Casablanca-Settat,Achat d'équipements,2021
+Coopérative,Artisanat,TPE,Souss-Massa,Formation,2022
+Coopérative,Industrie,TPE,Drâa-Tafilalet,Innovation,2020
+Auto-entrepreneur,Artisanat,Start-up,Souss-Massa,Formation,2022
+Coopérative,Agriculture,PME,Fès-Meknès,Achat d'équipements,2023
+Auto-entrepreneur,Tech,PME,Souss-Massa,Innovation,2022
+Auto-entrepreneur,Tourisme,PME,Casablanca-Settat,Export,2024
+Coopérative,Tourisme,Start-up,Rabat-Salé-Kénitra,Export,2021
+Coopérative,Tourisme,TPE,Fès-Meknès,Formation,2020
+Auto-entrepreneur,Tech,TPE,Drâa-Tafilalet,Numérisation,2023
+SARL,Tech,Start-up,Casablanca-Settat,Achat d'équipements,2023
+SARL,Agriculture,PME,Drâa-Tafilalet,Formation,2023
+Auto-entrepreneur,Artisanat,TPE,Drâa-Tafilalet,Innovation,2023
+SARL,Artisanat,Start-up,Souss-Massa,Formation,2021
+SARL,Tech,TPE,Fès-Meknès,Formation,2020
+Auto-entrepreneur,Artisanat,Start-up,Drâa-Tafilalet,Numérisation,2021
+Coopérative,Agriculture,TPE,Drâa-Tafilalet,Numérisation,2020
+Coopérative,Tech,Start-up,Drâa-Tafilalet,Innovation,2021
+SARL,Artisanat,PME,Casablanca-Settat,Innovation,2021
+Auto-entrepreneur,Tech,TPE,Souss-Massa,Numérisation,2024
+Auto-entrepreneur,Industrie,Start-up,Casablanca-Settat,Innovation,2023
+Auto-entrepreneur,Tourisme,TPE,Casablanca-Settat,Numérisation,2024
+Coopérative,Tech,TPE,Casablanca-Settat,Achat d'équipements,2024
+Auto-entrepreneur,Tech,PME,Souss-Massa,Achat d'équipements,2020
+Auto-entrepreneur,Tech,PME,Rabat-Salé-Kénitra,Achat d'équipements,2021
+Auto-entrepreneur,Tourisme,PME,Casablanca-Settat,Numérisation,2021
+SARL,Industrie,TPE,Drâa-Tafilalet,Formation,2022
+SARL,Industrie,Start-up,Casablanca-Settat,Innovation,2023
+SARL,Artisanat,PME,Drâa-Tafilalet,Innovation,2023
+SARL,Industrie,TPE,Casablanca-Settat,Numérisation,2023
+SARL,Agriculture,Start-up,Rabat-Salé-Kénitra,Achat d'équipements,2022
+Auto-entrepreneur,Tech,Start-up,Drâa-Tafilalet,Achat d'équipements,2022
+SARL,Industrie,Start-up,Fès-Meknès,Export,2022
+SARL,Artisanat,TPE,Drâa-Tafilalet,Innovation,2024
+Coopérative,Agriculture,Start-up,Rabat-Salé-Kénitra,Numérisation,2023
+SARL,Artisanat,PME,Souss-Massa,Innovation,2022
+Coopérative,Tech,Start-up,Casablanca-Settat,Formation,2020
+Coopérative,Tourisme,Start-up,Fès-Meknès,Formation,2022
+Auto-entrepreneur,Artisanat,Start-up,Casablanca-Settat,Innovation,2024
+Auto-entrepreneur,Tourisme,PME,Drâa-Tafilalet,Formation,2021
+Coopérative,Industrie,Start-up,Souss-Massa,Innovation,2020
+Coopérative,Agriculture,TPE,Drâa-Tafilalet,Numérisation,2021
+SARL,Tourisme,Start-up,Fès-Meknès,Formation,2024
+Auto-entrepreneur,Artisanat,PME,Rabat-Salé-Kénitra,Export,2023
+Auto-entrepreneur,Industrie,PME,Drâa-Tafilalet,Formation,2020
+Auto-entrepreneur,Tech,PME,Souss-Massa,Formation,2023
+SARL,Tech,TPE,Drâa-Tafilalet,Numérisation,2020
+Auto-entrepreneur,Industrie,PME,Casablanca-Settat,Export,2021
+SARL,Industrie,TPE,Casablanca-Settat,Innovation,2023
+Coopérative,Industrie,Start-up,Casablanca-Settat,Formation,2024
+SARL,Tech,Start-up,Drâa-Tafilalet,Achat d'équipements,2023
+Auto-entrepreneur,Industrie,PME,Casablanca-Settat,Innovation,2022
+Auto-entrepreneur,Tourisme,TPE,Drâa-Tafilalet,Formation,2023
+Auto-entrepreneur,Agriculture,Start-up,Drâa-Tafilalet,Innovation,2021
+Coopérative,Agriculture,PME,Souss-Massa,Export,2022
+Coopérative,Tech,PME,Drâa-Tafilalet,Innovation,2022
+Coopérative,Industrie,TPE,Casablanca-Settat,Numérisation,2020
+Coopérative,Industrie,Start-up,Rabat-Salé-Kénitra,Export,2020
+Auto-entrepreneur,Agriculture,Start-up,Drâa-Tafilalet,Achat d'équipements,2023
+Coopérative,Artisanat,PME,Fès-Meknès,Innovation,2023
+Auto-entrepreneur,Agriculture,TPE,Drâa-Tafilalet,Achat d'équipements,2022
+Auto-entrepreneur,Industrie,TPE,Souss-Massa,Achat d'équipements,2023
+Coopérative,Artisanat,PME,Casablanca-Settat,Innovation,2020
+Coopérative,Tourisme,PME,Casablanca-Settat,Formation,2022
+Coopérative,Tech,TPE,Fès-Meknès,Innovation,2023
+Auto-entrepreneur,Industrie,TPE,Fès-Meknès,Innovation,2020
+Auto-entrepreneur,Agriculture,Start-up,Casablanca-Settat,Numérisation,2020
+Auto-entrepreneur,Artisanat,PME,Drâa-Tafilalet,Achat d'équipements,2022
+SARL,Artisanat,TPE,Fès-Meknès,Export,2023
+Auto-entrepreneur,Tourisme,Start-up,Drâa-Tafilalet,Formation,2023
+SARL,Artisanat,TPE,Souss-Massa,Formation,2021
+SARL,Industrie,Start-up,Casablanca-Settat,Achat d'équipements,2020
